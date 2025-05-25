@@ -1,0 +1,10 @@
+ipykernel
+ipywidgets 
+pandas
+pillow
+scikit-learn
+tqdm
+matplotlib
+seaborn
+torch
+torchvision
