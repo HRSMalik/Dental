@@ -8,3 +8,10 @@ matplotlib
 seaborn
 torch
 torchvision
+torchmetrics
+onnx
+fastapi 
+uvicorn 
+onnxruntime 
+pillow
+python-multipart
